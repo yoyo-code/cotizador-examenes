@@ -1,0 +1,2112 @@
+[
+  {
+    "Codigo": 303029,
+    "Examen": "17- Alfa Hidroxiprogesterona",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 303044,
+    "Examen": "17 HIDROXICORTICOESTEROIDES",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 303043,
+    "Examen": "17-cetoesteroides en orina 24 horas",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 302078,
+    "Examen": "25 OH Vitamina D",
+    "Valor": 21000
+  },
+  {
+    "Codigo": "0302078-01",
+    "Examen": "25 OH Vitamina D3",
+    "Valor": 30000
+  },
+  {
+    "Codigo": 306056,
+    "Examen": "Acarotest, raspado de piel",
+    "Valor": 7000
+  },
+  {
+    "Codigo": 302002,
+    "Examen": "Acido Citrico",
+    "Valor": 4500
+  },
+  {
+    "Codigo": 301002,
+    "Examen": "Acido folico",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 302004,
+    "Examen": "Acido lactico (Lactato)",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0303029-01",
+    "Examen": "Acido metio-nalonico",
+    "Valor": 62500
+  },
+  {
+    "Codigo": 302005,
+    "Examen": "Acido Urico",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 309004,
+    "Examen": "Acido urico en orina aislada",
+    "Valor": 4500
+  },
+  {
+    "Codigo": "0309004-01",
+    "Examen": "Acido urico en orina de 24 horas",
+    "Valor": 4500
+  },
+  {
+    "Codigo": 2,
+    "Examen": "Acido vainillilmandelico, orina de 24 horas",
+    "Valor": 15000
+  },
+  {
+    "Codigo": "0302035-10",
+    "Examen": "Acido valproico, nivel plasmatico",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 303001,
+    "Examen": "ACTH, Corticotrofina , Hormona adenocorticotrofica",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0306069-18",
+    "Examen": "Adenovirus, anticuerpos IgG",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306069-17",
+    "Examen": "Adenovirus, anticuerpos IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 306070,
+    "Examen": "Adenovirus, antigenos virales",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0302060-01",
+    "Examen": "Albumina",
+    "Valor": 3000
+  },
+  {
+    "Codigo": "0302035-02",
+    "Examen": "Alcohol en Orina",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 303002,
+    "Examen": "Aldosterona",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 305001,
+    "Examen": "Alfa 1 antitripsina",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 305002,
+    "Examen": "ALFA 2 MACROGLOBULINA",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 305003,
+    "Examen": "Alfa fetoproteina",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 302008,
+    "Examen": "Amilasa",
+    "Valor": 4500
+  },
+  {
+    "Codigo": 309006,
+    "Examen": "Amilasa en orina 24 horas",
+    "Valor": 4500
+  },
+  {
+    "Codigo": "0309006-01",
+    "Examen": "Amilasa en orina aislada",
+    "Valor": 5500
+  },
+  {
+    "Codigo": 302009,
+    "Examen": "Aminoacidos en sangre",
+    "Valor": 45000
+  },
+  {
+    "Codigo": 7700003,
+    "Examen": "Aminoaciduria cuantitativa",
+    "Valor": 45000
+  },
+  {
+    "Codigo": 303003,
+    "Examen": "Androstenediona",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0302035-07",
+    "Examen": "Anfetaminas en orina",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 7700004,
+    "Examen": "Anti-B2 Glicoproteina I, anticuerpos IgG",
+    "Valor": 25000
+  },
+  {
+    "Codigo": 7700005,
+    "Examen": "Anti-B2 Glicoproteina I, anticuerpos IgM",
+    "Valor": 25000
+  },
+  {
+    "Codigo": 306026,
+    "Examen": "Antibiograma",
+    "Valor": 5000
+  },
+  {
+    "Codigo": 301007,
+    "Examen": "Anticoagulante lupico",
+    "Valor": 40000
+  },
+  {
+    "Codigo": 305084,
+    "Examen": "Anticuerpos anti cardiolipinas IgG",
+    "Valor": 25000
+  },
+  {
+    "Codigo": "0305084-01",
+    "Examen": "Anticuerpos anti cardiolipinas IgM",
+    "Valor": 25000
+  },
+  {
+    "Codigo": 4,
+    "Examen": "Anticuerpos anti celulas beta",
+    "Valor": 42000
+  },
+  {
+    "Codigo": "0305007-01",
+    "Examen": "Anticuerpos anti Celulas Parietales",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0305082-01",
+    "Examen": "Anticuerpos anti citoplasma de neutrofilos A.N.C.A.C.",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 305082,
+    "Examen": "Anticuerpos anti citoplasma de neutrofilos A.N.C.A.P.",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0305082-03",
+    "Examen": "Anticuerpos anti citoplasma de neutrofilos ANCA.",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0305005-03",
+    "Examen": "Anticuerpos anti DNA",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 305008,
+    "Examen": "Anticuerpos Anti Estreptolisina O (ASO)",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 7700007,
+    "Examen": "Anticuerpos anti LKM-1",
+    "Valor": 40000
+  },
+  {
+    "Codigo": "0305081-01",
+    "Examen": "Anticuerpos anti membrana basal",
+    "Valor": 20000
+  },
+  {
+    "Codigo": "0305005-09",
+    "Examen": "Anticuerpos anti mitocondriales",
+    "Valor": 15000
+  },
+  {
+    "Codigo": "0305005-04",
+    "Examen": "Anticuerpos anti musculo liso",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 305005,
+    "Examen": "Anticuerpos Anti Nucleares (ANA)",
+    "Valor": 12500
+  },
+  {
+    "Codigo": "0305005-01",
+    "Examen": "Anticuerpos anti peroxidasa (TPO)",
+    "Valor": 15000
+  },
+  {
+    "Codigo": "0305007-02",
+    "Examen": "Anticuerpos anti receptor de TSH (TRAB)",
+    "Valor": 35000
+  },
+  {
+    "Codigo": 360466,
+    "Examen": "Anticuerpos anti Saccharomyces cerevisiae , IgA e IgG",
+    "Valor": 48000
+  },
+  {
+    "Codigo": "0305005-02",
+    "Examen": "Anticuerpos anti tiroglobulina (TgAb)",
+    "Valor": 48000
+  },
+  {
+    "Codigo": "0305005-05",
+    "Examen": "Anticuerpos Anti Tiroideos",
+    "Valor": 23000
+  },
+  {
+    "Codigo": "0306041-01",
+    "Examen": "Anticuerpos anti Treponema pallidum FTA-ABS",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 305081,
+    "Examen": "Anticuerpos Antiendomisial IgA",
+    "Valor": 20000
+  },
+  {
+    "Codigo": 305004,
+    "Examen": "Anticuerpos antigenos nuclear extractable (ENA)",
+    "Valor": 17900
+  },
+  {
+    "Codigo": "0305086-01",
+    "Examen": "Anticuerpos antigliadinas IgA",
+    "Valor": 13000
+  },
+  {
+    "Codigo": 305086,
+    "Examen": "Anticuerpos antigliadinas IgG",
+    "Valor": 13000
+  },
+  {
+    "Codigo": "0305181 - 1",
+    "Examen": "Anticuerpos Antitransglutaminasa IgA",
+    "Valor": 18000
+  },
+  {
+    "Codigo": "0305181 - 2",
+    "Examen": "Anticuerpos Antitransglutaminasa IgG",
+    "Valor": 18000
+  },
+  {
+    "Codigo": "0305007-03",
+    "Examen": "Anticuerpos Microsomales",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0306070-09",
+    "Examen": "Anticuerpos Rubeola",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 305009,
+    "Examen": "Antigeno Carcinoembrionario (CEA)",
+    "Valor": 13000
+  },
+  {
+    "Codigo": 4789,
+    "Examen": "Antigeno COVID-19",
+    "Valor": 25000
+  },
+  {
+    "Codigo": "0305070-01",
+    "Examen": "Antigeno prostatico Especifico (PSA) Libre",
+    "Valor": 16000
+  },
+  {
+    "Codigo": 305070,
+    "Examen": "Antigeno Prostatico Especifico (PSA) Total",
+    "Valor": 16000
+  },
+  {
+    "Codigo": 306170,
+    "Examen": "Antigenos virales Rotavirus",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 302070,
+    "Examen": "Apolipoproteina A1",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0302070-01",
+    "Examen": "Apolipoproteina B",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 303070,
+    "Examen": "Asca",
+    "Valor": 48000
+  },
+  {
+    "Codigo": 308001,
+    "Examen": "Azucares Reductores",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 5,
+    "Examen": "Bartonella henselae, anticuerpos IgG",
+    "Valor": 32000
+  },
+  {
+    "Codigo": 6,
+    "Examen": "Bartonella henselae, anticuerpos IgM",
+    "Valor": 32000
+  },
+  {
+    "Codigo": "0302035-01",
+    "Examen": "Benzodiacepina en orina",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 305010,
+    "Examen": "Beta 2 microglobulina",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 302013,
+    "Examen": "Bilirrubina Directa",
+    "Valor": 2500
+  },
+  {
+    "Codigo": "0302013-02",
+    "Examen": "Bilirrubina Indirecta",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 302012,
+    "Examen": "Bilirrubina total",
+    "Valor": 3000
+  },
+  {
+    "Codigo": "0302013-01",
+    "Examen": "Bilirrubina total y conjugada",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 8,
+    "Examen": "Bordetella pertusis, anticuerpos Ig G",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 9,
+    "Examen": "Bordetella pertusis, anticuerpos IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 6000,
+    "Examen": "Calcio en orina aislada",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 309008,
+    "Examen": "Calcio en orina de 24 horas",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 302015,
+    "Examen": "Calcio en sangre",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 302081,
+    "Examen": "Calcio Ionizado",
+    "Valor": 6000
+  },
+  {
+    "Codigo": 13,
+    "Examen": "Calculo Renal",
+    "Valor": 25000
+  },
+  {
+    "Codigo": 901001,
+    "Examen": "Calprotectina cuantitativa en deposicion",
+    "Valor": 30000
+  },
+  {
+    "Codigo": 301029,
+    "Examen": "Capacidad de fijacion total del hierro (TIBC)",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0302035-11",
+    "Examen": "Carbamazepina, nivel plasmatico",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 302017,
+    "Examen": "Caroteno basal",
+    "Valor": 6500
+  },
+  {
+    "Codigo": 302018,
+    "Examen": "Caroteno Post carga",
+    "Valor": 6000
+  },
+  {
+    "Codigo": "0305029-06",
+    "Examen": "Catecolaminas en orina",
+    "Valor": 60000
+  },
+  {
+    "Codigo": 303005,
+    "Examen": "Catecolaminas en suero",
+    "Valor": 60000
+  },
+  {
+    "Codigo": 7000,
+    "Examen": "Celulas de Lupus",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 302019,
+    "Examen": "Ceruloplasmina",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 309011,
+    "Examen": "Cetonuria",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 306061,
+    "Examen": "Chagas (T. Cruzi), anticuerpos IgG / IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306034-02",
+    "Examen": "Chlamydia pneumoniae  IgG",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0306034-04",
+    "Examen": "Chlamydia pneumoniae, anticuerpos IgM",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 306034,
+    "Examen": "Chlamydia Trachomatis",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0306034-01",
+    "Examen": "Chlamydia trachomatis (Deteccion de Antigeno)",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0306034-03",
+    "Examen": "Chlamydia trachomatis IgM",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 100,
+    "Examen": "Chlamydia trachomatis por PCR-RT",
+    "Valor": 25000
+  },
+  {
+    "Codigo": 301030,
+    "Examen": "Cinetica de Fierro",
+    "Valor": 22000
+  },
+  {
+    "Codigo": "0306069-15",
+    "Examen": "Citomegalovirus, IgG",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306069-16",
+    "Examen": "Citomegalovirus, IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0309016-03",
+    "Examen": "Citrato Orina de 24 hrs",
+    "Valor": 21000
+  },
+  {
+    "Codigo": 302024,
+    "Examen": "Clearance de creatinina",
+    "Valor": 6000
+  },
+  {
+    "Codigo": "0302035-12",
+    "Examen": "Clonazepam, nivel plasmatico",
+    "Valor": 18000
+  },
+  {
+    "Codigo": "0309012-05",
+    "Examen": "Cloro de orinas en 24 horas",
+    "Valor": 2500
+  },
+  {
+    "Codigo": "0309012-03",
+    "Examen": "Cloro en orinas",
+    "Valor": 2500
+  },
+  {
+    "Codigo": "0302032-03",
+    "Examen": "Cloro serico",
+    "Valor": 2200
+  },
+  {
+    "Codigo": 15,
+    "Examen": "Clostridium difficile por PCR-RT",
+    "Valor": 52000
+  },
+  {
+    "Codigo": 302020,
+    "Examen": "Cobre en suero",
+    "Valor": 22000
+  },
+  {
+    "Codigo": "0302035-05",
+    "Examen": "Cocaina en orina",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 302068,
+    "Examen": "Colesterol HDL",
+    "Valor": 3500
+  },
+  {
+    "Codigo": "0302068-01",
+    "Examen": "Colesterol LDL",
+    "Valor": 3500
+  },
+  {
+    "Codigo": 302067,
+    "Examen": "Colesterol total",
+    "Valor": 3500
+  },
+  {
+    "Codigo": 302021,
+    "Examen": "Colinesterasa",
+    "Valor": 6000
+  },
+  {
+    "Codigo": "0305012-03",
+    "Examen": "Componente Complemento C1Q",
+    "Valor": 9000
+  },
+  {
+    "Codigo": "0305012-02",
+    "Examen": "Componente Complemento C2",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 305012,
+    "Examen": "Componente complemento C3",
+    "Valor": 9000
+  },
+  {
+    "Codigo": "0305012-01",
+    "Examen": "Componente complemento C4",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 306007,
+    "Examen": "Coprocultivo",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 306045,
+    "Examen": "Coproparasitologico para criptosporidium",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 306948,
+    "Examen": "Coproparasitologico Seriado Teleman",
+    "Valor": 5000
+  },
+  {
+    "Codigo": 9090901,
+    "Examen": "Coronavirus, COVID-19 IgG - IgM",
+    "Valor": 25000
+  },
+  {
+    "Codigo": 9090902,
+    "Examen": "Coronavirus, COVID-19 test rapido",
+    "Valor": 20000
+  },
+  {
+    "Codigo": "0303006-02",
+    "Examen": "Cortisol A.M.",
+    "Valor": 9500
+  },
+  {
+    "Codigo": 303035,
+    "Examen": "Cortisol en orina 24 horas",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0303006-01",
+    "Examen": "Cortisol P.M.",
+    "Valor": 9500
+  },
+  {
+    "Codigo": 303006,
+    "Examen": "Cortisol Plasmatico",
+    "Valor": 9500
+  },
+  {
+    "Codigo": 7700013,
+    "Examen": "Cortisona",
+    "Valor": 40000
+  },
+  {
+    "Codigo": 302023,
+    "Examen": "Creatinina + VFG",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 309010,
+    "Examen": "Creatinina en Orina Aislada",
+    "Valor": 3000
+  },
+  {
+    "Codigo": "0309010-01",
+    "Examen": "Creatinina en orina de 24 horas",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 302025,
+    "Examen": "Creatinquinasa miocardica (CK-MB)",
+    "Valor": 8500
+  },
+  {
+    "Codigo": 302026,
+    "Examen": "Creatinquinasa total (CK Total)",
+    "Valor": 6500
+  },
+  {
+    "Codigo": 306008,
+    "Examen": "Cultivo Corriente",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 306017,
+    "Examen": "Cultivo de Hongos",
+    "Valor": 5000
+  },
+  {
+    "Codigo": "0306017-01",
+    "Examen": "Cultivo de Hongos Filamentosos",
+    "Valor": 5000
+  },
+  {
+    "Codigo": "0306008-03",
+    "Examen": "Cultivo faringeo",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 306016,
+    "Examen": "Cultivo Gonococo",
+    "Valor": 5500
+  },
+  {
+    "Codigo": "0306023-02",
+    "Examen": "Cultivo Mycoplasma",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0306008-04",
+    "Examen": "Cultivo Otico",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0306008-05",
+    "Examen": "Cultivo Secrecion Nasal",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0306008-02",
+    "Examen": "Cultivo Secrecion Ocular",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0306008-06",
+    "Examen": "CULTIVO UNGUEAL",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 306023,
+    "Examen": "Cultivo Ureaplasma",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0302048-03",
+    "Examen": "Curva de Glicemia (4 ptos)",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 302048,
+    "Examen": "Curva de Glucosa 2 muestras",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0302048-01",
+    "Examen": "Curva de Glucosa 3 muestras PTGO",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0303031-04",
+    "Examen": "Curva de Insulina (4 ptos)",
+    "Valor": 20000
+  },
+  {
+    "Codigo": 303031,
+    "Examen": "Curva de Insulina 2 muestras",
+    "Valor": 15000
+  },
+  {
+    "Codigo": "0303031-03",
+    "Examen": "Curva de Insulina 3 muestras",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 303008,
+    "Examen": "Dehidroepiandrosterona, sulfato DHEAS",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306034-04",
+    "Examen": "Deteccion Chlamydia trachomatis por PCR",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0306023-01",
+    "Examen": "Deteccion Mycoplasma Urogenital",
+    "Valor": 11000
+  },
+  {
+    "Codigo": 306043,
+    "Examen": "Diagnoticos de antropodos macroscopicos y microsc�picos",
+    "Valor": 6000
+  },
+  {
+    "Codigo": "0302035-01",
+    "Examen": "Digoxina, nivel plasmatico",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 14,
+    "Examen": "Elastasa Fecal",
+    "Valor": 60000
+  },
+  {
+    "Codigo": 302054,
+    "Examen": "Electroforesis de Lipoproteinas",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 302061,
+    "Examen": "Electroforesis de proteinas",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 308019,
+    "Examen": "Electroforesis de proteinas en orina 24 hrs.",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 308012,
+    "Examen": "Electrolitos en secreciones",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 302032,
+    "Examen": "Electrolitos Plasmaticos",
+    "Valor": 6600
+  },
+  {
+    "Codigo": 309012,
+    "Examen": "Electrolitos plasmaticos en orina",
+    "Valor": 3000
+  },
+  {
+    "Codigo": "0305004-04",
+    "Examen": "ENA Anticuerpos anti (Jo1)",
+    "Valor": 17900
+  },
+  {
+    "Codigo": "0305004-02",
+    "Examen": "ENA Anticuerpos anti (RNP)",
+    "Valor": 17900
+  },
+  {
+    "Codigo": "0305004-05",
+    "Examen": "ENA Anticuerpos anti (SCL-70)",
+    "Valor": 17900
+  },
+  {
+    "Codigo": "0305004-06",
+    "Examen": "ENA Anticuerpos anti (Sm)",
+    "Valor": 17900
+  },
+  {
+    "Codigo": "0305004-01",
+    "Examen": "ENA Anticuerpos anti La (SS-B)",
+    "Valor": 17900
+  },
+  {
+    "Codigo": "0305004-03",
+    "Examen": "ENA Anticuerpos anti Ro (SS-A)",
+    "Valor": 17900
+  },
+  {
+    "Codigo": 7700014,
+    "Examen": "Enzima convertidora de Angiotensina I",
+    "Valor": 51000
+  },
+  {
+    "Codigo": 306069,
+    "Examen": "Epstein-Barr virus, anticuerpos VCA IgG",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306069-03",
+    "Examen": "Epstein-Barr virus, anticuerpos VCA IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 303009,
+    "Examen": "Eritropoyetina plasmatica",
+    "Valor": 78000
+  },
+  {
+    "Codigo": 308029,
+    "Examen": "Espermiograma",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 303030,
+    "Examen": "Estradiol 17-Beta, E2",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 20,
+    "Examen": "Estrona",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 306052,
+    "Examen": "Estudios gusanos macroscopicos",
+    "Valor": 5000
+  },
+  {
+    "Codigo": 306004,
+    "Examen": "Examen Directo al fresco",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 305020,
+    "Examen": "Factor Reumatoideo",
+    "Valor": 5000
+  },
+  {
+    "Codigo": 7700016,
+    "Examen": "Factor V",
+    "Valor": 55000
+  },
+  {
+    "Codigo": 45600,
+    "Examen": "Factor VIII",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 7700017,
+    "Examen": "Factor Von Willebrand antigenico (FVW:AG)",
+    "Valor": 36000
+  },
+  {
+    "Codigo": 45670,
+    "Examen": "Factor XII",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0302035-14",
+    "Examen": "Fenitoina total, nivel plasmatico",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0302035-17",
+    "Examen": "Fenobarbital total",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0301028-01",
+    "Examen": "Ferremia (Hierro plasmatico)",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 301026,
+    "Examen": "Ferritina",
+    "Valor": 7000
+  },
+  {
+    "Codigo": 309023,
+    "Examen": "Fisicoquimico orina",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 308044,
+    "Examen": "Flujo Vaginal",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 302037,
+    "Examen": "Fosfatasa acida total",
+    "Valor": 6000
+  },
+  {
+    "Codigo": 302038,
+    "Examen": "Fosfatasa acida total y Prostatica",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 302040,
+    "Examen": "Fosfatasa alcalina",
+    "Valor": 3500
+  },
+  {
+    "Codigo": 302041,
+    "Examen": "Fosfolipidos",
+    "Valor": 5000
+  },
+  {
+    "Codigo": 302042,
+    "Examen": "Fosforo",
+    "Valor": 3500
+  },
+  {
+    "Codigo": "0309015-01",
+    "Examen": "Fosforo en orina de 24 horas",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 309015,
+    "Examen": "Fosforo Orina Aislada",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 303012,
+    "Examen": "Gastrina",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 302045,
+    "Examen": "G-Glutamil transferasa (GGT)",
+    "Valor": 4500
+  },
+  {
+    "Codigo": 302047,
+    "Examen": "Glicemia",
+    "Valor": 3000
+  },
+  {
+    "Codigo": "0302047-02",
+    "Examen": "Glicemia ayunas y post-prandial",
+    "Valor": 6000
+  },
+  {
+    "Codigo": "0302047-01",
+    "Examen": "Glicemia basal y post carga",
+    "Valor": 6000
+  },
+  {
+    "Codigo": "0302047-03",
+    "Examen": "Glicemia Post Carga",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 23,
+    "Examen": "Glucosa 6 fosfato deshidrogenasa",
+    "Valor": 12222
+  },
+  {
+    "Codigo": "0309016-01",
+    "Examen": "Glucosuria 24 horas",
+    "Valor": 5000
+  },
+  {
+    "Codigo": 309016,
+    "Examen": "Glucosuria aislada",
+    "Valor": 5000
+  },
+  {
+    "Codigo": "0302063-01",
+    "Examen": "GOT / AST",
+    "Valor": 4000
+  },
+  {
+    "Codigo": "0302063-02",
+    "Examen": "GPT / ALT",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 301034,
+    "Examen": "Grupo sanguineo (ABO-Rh)",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 303014,
+    "Examen": "HCG-B, Fraccion beta de gonadotrofina corionica humana",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 302400,
+    "Examen": "Helicobacter Pylori en deposicion",
+    "Valor": 15000
+  },
+  {
+    "Codigo": "0302400-01",
+    "Examen": "Helicobacter Pylori en suero",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 7700018,
+    "Examen": "Helicobacter pylori, IgG en suero",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 301036,
+    "Examen": "Hematocrito",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 301038,
+    "Examen": "Hemoglobina",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 301041,
+    "Examen": "Hemoglobina Glicosilada A1C",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 301045,
+    "Examen": "Hemograma",
+    "Valor": 6000
+  },
+  {
+    "Codigo": 308004,
+    "Examen": "Hemorragias ocultas",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 25,
+    "Examen": "Hepatitis A totales ( IgG-IgM )",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0306074-01",
+    "Examen": "Hepatitis A, anticuerpos IgG",
+    "Valor": 1234
+  },
+  {
+    "Codigo": 306074,
+    "Examen": "Hepatitis A, anticuerpos IgM (anti HAV)",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 306078,
+    "Examen": "Hepatitis B , antigeno  E",
+    "Valor": 55000
+  },
+  {
+    "Codigo": 306076,
+    "Examen": "Hepatitis B Anticore Total",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306080-01",
+    "Examen": "Hepatitis B,  anticore Total",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 306080,
+    "Examen": "Hepatitis B, anticore IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306079-01",
+    "Examen": "Hepatitis B, anticuerpo anti antigeno de superficie",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 306075,
+    "Examen": "Hepatitis B, Anticuerpo Antigeno E",
+    "Valor": 48000
+  },
+  {
+    "Codigo": 306079,
+    "Examen": "Hepatitis B, Antigeno de superficie",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 306081,
+    "Examen": "Hepatitis C",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 60,
+    "Examen": "Herpes simple tipo 1, IgG",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 62,
+    "Examen": "Herpes simple tipo 1, IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 61,
+    "Examen": "Herpes simple tipo 2, IgG",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 63,
+    "Examen": "Herpes simple tipo 2, IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306061-02",
+    "Examen": "Hidatidosis, anticuerpos IgG",
+    "Valor": 9500
+  },
+  {
+    "Codigo": 7700019,
+    "Examen": "Hidroxiprolina en orina 24 hrs",
+    "Valor": 38000
+  },
+  {
+    "Codigo": 306169,
+    "Examen": "HIV",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 305060,
+    "Examen": "HLA-B27",
+    "Valor": 45000
+  },
+  {
+    "Codigo": 1701006,
+    "Examen": "Holter de presion",
+    "Valor": 30000
+  },
+  {
+    "Codigo": 32,
+    "Examen": "HOMA- Indice de Resistencia Insulinica",
+    "Valor": 11000
+  },
+  {
+    "Codigo": 33,
+    "Examen": "Homocisteina",
+    "Valor": 35000
+  },
+  {
+    "Codigo": 303038,
+    "Examen": "Hormona Antimulleriana (AMH)",
+    "Valor": 42000
+  },
+  {
+    "Codigo": 303007,
+    "Examen": "Hormona de crecimiento",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 303015,
+    "Examen": "Hormona Foliculo Estimulante FSH",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 303016,
+    "Examen": "Hormona Luteinizante LH",
+    "Valor": 9000
+  },
+  {
+    "Codigo": "0305029-07",
+    "Examen": "Ige ESPECIFICA  38 alergenos",
+    "Valor": 85000
+  },
+  {
+    "Codigo": 303048,
+    "Examen": "IGFBP-1",
+    "Valor": 21000
+  },
+  {
+    "Codigo": "0303048-01",
+    "Examen": "IGFBP-3",
+    "Valor": 21000
+  },
+  {
+    "Codigo": 36,
+    "Examen": "Indice androgenico libre",
+    "Valor": 3452
+  },
+  {
+    "Codigo": "0305070-08",
+    "Examen": "Indice Antigeno Prostatico Especifico (PSA) Libre/Total",
+    "Valor": 16000
+  },
+  {
+    "Codigo": "0306069-07",
+    "Examen": "Influenza 1, Virus Respiratorio",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306069-08",
+    "Examen": "Influenza 2, Virus Respiratorio",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306069-09",
+    "Examen": "Influenza 3, Virus Respiratorio",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 37,
+    "Examen": "Influenza A y B , PCR",
+    "Valor": 48000
+  },
+  {
+    "Codigo": "0306069-05",
+    "Examen": "Influenza A, Virus Respiratorio",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306069-06",
+    "Examen": "Influenza B, Virus Respiratorio",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 305025,
+    "Examen": "Inmunofijacion de Inmunoglobulinas en orina",
+    "Valor": 46000
+  },
+  {
+    "Codigo": "0305025-01",
+    "Examen": "Inmunofijacion en suero",
+    "Valor": 46000
+  },
+  {
+    "Codigo": "0305029-03",
+    "Examen": "Inmunoglobulina E , Alergeno Especifica",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0305027-02",
+    "Examen": "Inmunoglobulina IgA",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 305026,
+    "Examen": "Inmunoglobulina IgA secretora",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 305029,
+    "Examen": "Inmunoglobulina IgE especificos",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 305028,
+    "Examen": "Inmunoglobulina IgE total",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 305027,
+    "Examen": "Inmunoglobulina IgG",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0305027-01",
+    "Examen": "Inmunoglobulina IgM",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 303017,
+    "Examen": "Insulina Basal",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0303031-02",
+    "Examen": "Insulina Post Carga",
+    "Valor": 25000
+  },
+  {
+    "Codigo": "0303017-02",
+    "Examen": "Insulina Post Prandial",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 303047,
+    "Examen": "Insuline like growth factor-1 (IGF1)",
+    "Valor": 18000
+  },
+  {
+    "Codigo": 307014,
+    "Examen": "Insumo de glucosa",
+    "Valor": 3500
+  },
+  {
+    "Codigo": "0302035-16",
+    "Examen": "Lamotrigina, nivel plasmatico",
+    "Valor": 45000
+  },
+  {
+    "Codigo": 302030,
+    "Examen": "LDH",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 308005,
+    "Examen": "Leucocitos fecales",
+    "Valor": 3000
+  },
+  {
+    "Codigo": "0000-83",
+    "Examen": "Levetiracetam, nivel plasmatico",
+    "Valor": 45000
+  },
+  {
+    "Codigo": 99,
+    "Examen": "Linfocitos B Totales CD19",
+    "Valor": 50000
+  },
+  {
+    "Codigo": 68,
+    "Examen": "Linfocitos T Helpers CD3",
+    "Valor": 35000
+  },
+  {
+    "Codigo": 69,
+    "Examen": "Linfocitos T Helpers CD4",
+    "Valor": 35000
+  },
+  {
+    "Codigo": 79,
+    "Examen": "Linfocitos T Supres (CD8+)",
+    "Valor": 20000
+  },
+  {
+    "Codigo": 302053,
+    "Examen": "Lipasa",
+    "Valor": 4500
+  },
+  {
+    "Codigo": 302069,
+    "Examen": "Lipidos Totales",
+    "Valor": 3500
+  },
+  {
+    "Codigo": "0302055-01",
+    "Examen": "Litio, en sangre",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 302055,
+    "Examen": "Litio, nivel plasmatico",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0302056-01",
+    "Examen": "Magnesio en orina",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0302056-02",
+    "Examen": "Magnesio en orina de 24 horas",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 302056,
+    "Examen": "Magnesio, en sangre",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0305170-02",
+    "Examen": "Marcador CA 125",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0305170-01",
+    "Examen": "Marcador CA 15-3",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 305170,
+    "Examen": "Marcador CA 19-9",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 7700021,
+    "Examen": "Marcadores inmunologicos de diabetes",
+    "Valor": 65
+  },
+  {
+    "Codigo": "0302035-04",
+    "Examen": "Marihuana en orina",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 7700022,
+    "Examen": "Metanefrinas urinarias",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0302035-08",
+    "Examen": "Metanfetaminas en orina",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0309013-01",
+    "Examen": "Microalbuminuria 24 hrs.",
+    "Valor": 6000
+  },
+  {
+    "Codigo": "0309013-02",
+    "Examen": "Microalbuminuria Aislada",
+    "Valor": 6000
+  },
+  {
+    "Codigo": 306036,
+    "Examen": "Mononucleosis Infecciosa (Paul-Bunnell)",
+    "Valor": 5000
+  },
+  {
+    "Codigo": 7700023,
+    "Examen": "Mycobacterium tuberculosis por PCR-RT",
+    "Valor": 72000
+  },
+  {
+    "Codigo": "0306037-01",
+    "Examen": "Mycoplasma pneumoniae Ig M",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 306037,
+    "Examen": "Mycoplasma pneumoniae, anticuerpos IgG",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0302057-02",
+    "Examen": "Nitrogeno Ureico",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 309020,
+    "Examen": "Nitrogeno ureico en orina de 24 horas",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 303027,
+    "Examen": "Nivel de Tiroxina T4 Total",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0302035-03",
+    "Examen": "Opiaceos en orina",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 309022,
+    "Examen": "Orina Completa",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 7700024,
+    "Examen": "Oxalato Orina de 24 horas",
+    "Valor": 21000
+  },
+  {
+    "Codigo": "0302032-18",
+    "Examen": "Oxicarbamacepina, nivel plasmatico",
+    "Valor": 45000
+  },
+  {
+    "Codigo": "0305029-08",
+    "Examen": "PANEL CHILE 36 ALERGENOS",
+    "Valor": 65000
+  },
+  {
+    "Codigo": 42,
+    "Examen": "Panel de Virus Respiratorio BK",
+    "Valor": 40000
+  },
+  {
+    "Codigo": 43,
+    "Examen": "Panel de Virus Respiratorio BK16",
+    "Valor": 65000
+  },
+  {
+    "Codigo": 95,
+    "Examen": "Panel Diabetes",
+    "Valor": 68000
+  },
+  {
+    "Codigo": 93,
+    "Examen": "Panel ETS PCR",
+    "Valor": 40000
+  },
+  {
+    "Codigo": 78000,
+    "Examen": "Panel Gastrointestinal",
+    "Valor": 90000
+  },
+  {
+    "Codigo": 2000,
+    "Examen": "Panel miositis 16, auto anticuerpos tipo IgG",
+    "Valor": 58000
+  },
+  {
+    "Codigo": 97,
+    "Examen": "Panel Respiratorio",
+    "Valor": 40000
+  },
+  {
+    "Codigo": 801001,
+    "Examen": "Papanicolau",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0306061-04",
+    "Examen": "Para Otros, Anticuerpos IgG / IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 306059,
+    "Examen": "Parasitologico seriado simple",
+    "Valor": 7000
+  },
+  {
+    "Codigo": 303018,
+    "Examen": "Paratiroidea intacta (PTH)",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0303018-1",
+    "Examen": "Paratohormona (PTH)",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306070-05",
+    "Examen": "Parvovirus B19 Ac IgG",
+    "Valor": 26000
+  },
+  {
+    "Codigo": "0306070-06",
+    "Examen": "Parvovirus B19 Ac IgM",
+    "Valor": 26000
+  },
+  {
+    "Codigo": 44,
+    "Examen": "Peptido C",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0305029-04",
+    "Examen": "Peptido citrulinado, Anticuerpos IgG",
+    "Valor": 22000
+  },
+  {
+    "Codigo": 302075,
+    "Examen": "Perfil Bioquimico",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 302076,
+    "Examen": "Perfil Hepatico",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 302034,
+    "Examen": "Perfil Lipidico",
+    "Valor": 11000
+  },
+  {
+    "Codigo": 308006,
+    "Examen": "PH Fecal",
+    "Valor": 2000
+  },
+  {
+    "Codigo": 7700026,
+    "Examen": "Plomo en orina aislada",
+    "Valor": 41000
+  },
+  {
+    "Codigo": "0303020-01",
+    "Examen": "Pool de Prolactina",
+    "Valor": 36000
+  },
+  {
+    "Codigo": "0309012-02",
+    "Examen": "Potasio en orinas",
+    "Valor": 2500
+  },
+  {
+    "Codigo": "0309012-04",
+    "Examen": "Potasio en orinas de 24 horas",
+    "Valor": 2500
+  },
+  {
+    "Codigo": "0302032-01",
+    "Examen": "Potasio serico",
+    "Valor": 2200
+  },
+  {
+    "Codigo": 7700027,
+    "Examen": "Prealbumina",
+    "Valor": 35000
+  },
+  {
+    "Codigo": "0302032-19",
+    "Examen": "Primidona, nivel plasmatico",
+    "Valor": 8000
+  },
+  {
+    "Codigo": "0305029-05",
+    "Examen": "Pro BNP - Peptido natriuretico tipo B",
+    "Valor": 52000
+  },
+  {
+    "Codigo": 5000,
+    "Examen": "Procalcitonina",
+    "Valor": 23452
+  },
+  {
+    "Codigo": 303019,
+    "Examen": "Progesterona",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 303020,
+    "Examen": "Prolactina",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 309029,
+    "Examen": "Proteina Bence Jones",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 305031,
+    "Examen": "Proteina C Reactiva (Cuantitativa)",
+    "Valor": 11000
+  },
+  {
+    "Codigo": 305030,
+    "Examen": "Proteina C Reactiva ULTRASENSIBLE",
+    "Valor": 24000
+  },
+  {
+    "Codigo": 301091,
+    "Examen": "Proteina C, Resistencia",
+    "Valor": 85000
+  },
+  {
+    "Codigo": 301092,
+    "Examen": "Proteina S, Libre",
+    "Valor": 75000
+  },
+  {
+    "Codigo": 302059,
+    "Examen": "Proteinas Fraccionada",
+    "Valor": 4500
+  },
+  {
+    "Codigo": 302060,
+    "Examen": "Proteinas Totales",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 309028,
+    "Examen": "Proteinuria 24 hrs.",
+    "Valor": 3500
+  },
+  {
+    "Codigo": "0309028-01",
+    "Examen": "Proteinuria aislada",
+    "Valor": 3500
+  },
+  {
+    "Codigo": 306039,
+    "Examen": "Pruebas Tificas",
+    "Valor": 6500
+  },
+  {
+    "Codigo": 306038,
+    "Examen": "R.P.R.",
+    "Valor": 5500
+  },
+  {
+    "Codigo": 309013,
+    "Examen": "RAC Indice microalbuminuria / creatininuria",
+    "Valor": 6000
+  },
+  {
+    "Codigo": 307015,
+    "Examen": "Recoleccion de orina",
+    "Valor": 1500
+  },
+  {
+    "Codigo": 308013,
+    "Examen": "Recuento de Eosinofilo secrecion nasal (Sangre)",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 301063,
+    "Examen": "Recuento de Eosinofilos (Absoluto)",
+    "Valor": 2000
+  },
+  {
+    "Codigo": "0308013-01",
+    "Examen": "Recuento de Eosinofilos (segun numero de muestras)",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 301064,
+    "Examen": "Recuento de Eritrocitos (Absoluto)",
+    "Valor": 1500
+  },
+  {
+    "Codigo": 301065,
+    "Examen": "Recuento de Leucocitos (Absoluto)",
+    "Valor": 1500
+  },
+  {
+    "Codigo": 301066,
+    "Examen": "Recuento de Linfocitos (Absoluto)",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 301067,
+    "Examen": "Recuento de Plaquetas (Absoluto)",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 301068,
+    "Examen": "Recuento de Reticulocitos (Absoluto)",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 301069,
+    "Examen": "Recuento Diferencial o Formula Leucocitaria",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 303021,
+    "Examen": "Renina plasmatica",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 66,
+    "Examen": "Rubeola, IgG",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 67,
+    "Examen": "Rubeola, IgM",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 1000,
+    "Examen": "SARS-CoV-2 S-RBD IgG (Post vacuna)",
+    "Valor": 25000
+  },
+  {
+    "Codigo": "0308044-02",
+    "Examen": "Secrecion Uretral",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 309024,
+    "Examen": "Sedimento Urinario",
+    "Valor": 2500
+  },
+  {
+    "Codigo": 306077,
+    "Examen": "SEROLOGIA BARTONELLA HENSELAE IgG",
+    "Valor": 45000
+  },
+  {
+    "Codigo": "0306077-01",
+    "Examen": "SEROLOGIA BARTONELLA HENSELAE IgM",
+    "Valor": 45000
+  },
+  {
+    "Codigo": 303046,
+    "Examen": "Sex hormone binding globulin (SHBG)",
+    "Valor": 25000
+  },
+  {
+    "Codigo": "0309012-01",
+    "Examen": "Sodio en orinas",
+    "Valor": 2500
+  },
+  {
+    "Codigo": "0309012-06",
+    "Examen": "Sodio en orinas de 24 horas",
+    "Valor": 2000
+  },
+  {
+    "Codigo": "0302032-02",
+    "Examen": "Sodio serico",
+    "Valor": 2200
+  },
+  {
+    "Codigo": "0306008-01",
+    "Examen": "Streptococcus grupo B Perianal",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 303039,
+    "Examen": "Sub-unidad beta de gonadotrofina corionica humana",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 303032,
+    "Examen": "T3 Triyodotironina Libre",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 52,
+    "Examen": "Tacrolimus, nivel plasmatico",
+    "Valor": 55000
+  },
+  {
+    "Codigo": 306057,
+    "Examen": "Tenias",
+    "Valor": 7000
+  },
+  {
+    "Codigo": 301015,
+    "Examen": "Test de Coombs Indirecto",
+    "Valor": 3500
+  },
+  {
+    "Codigo": 306051,
+    "Examen": "Test de Graham",
+    "Valor": 4500
+  },
+  {
+    "Codigo": 309014,
+    "Examen": "Test rapido de embarazo",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 306090,
+    "Examen": "Test rapido Streptococcus grupo A",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 303023,
+    "Examen": "Testosterona libre",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 303022,
+    "Examen": "Testosterona Total",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 301011,
+    "Examen": "Tiempo de coagulaci�n",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 301059,
+    "Examen": "Tiempo de protrombina (TP)",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 301072,
+    "Examen": "Tiempo de Sangr�a",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 301085,
+    "Examen": "Tiempo de tromboplastina parcial activada (TTPK)",
+    "Valor": 4500
+  },
+  {
+    "Codigo": 306005,
+    "Examen": "Tincion Gram",
+    "Valor": 1500
+  },
+  {
+    "Codigo": 303025,
+    "Examen": "Tiroglobulinas",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 303026,
+    "Examen": "Tiroxina Libre T4L",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 307011,
+    "Examen": "Toma de muestra adulto",
+    "Valor": 1500
+  },
+  {
+    "Codigo": 307012,
+    "Examen": "Toma de muestra ni�o",
+    "Valor": 1500
+  },
+  {
+    "Codigo": "0306061-03",
+    "Examen": "Toxocariasis, anticuerpos IgG",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306069-20",
+    "Examen": "Toxoplasmosis, anticuerpos IgG",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306069-19",
+    "Examen": "Toxoplasmosis, anticuerpos IgM",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 302063,
+    "Examen": "Transaminasas (GOT - GPT)",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 301082,
+    "Examen": "Transferrina",
+    "Valor": 15000
+  },
+  {
+    "Codigo": 302064,
+    "Examen": "Trigliceridos",
+    "Valor": 4000
+  },
+  {
+    "Codigo": 7700033,
+    "Examen": "Triquinosis, ELISA IgG",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 303028,
+    "Examen": "Triyodotironina total T3",
+    "Valor": 8000
+  },
+  {
+    "Codigo": 302027,
+    "Examen": "Troponina I, Cardiaca",
+    "Valor": 30000
+  },
+  {
+    "Codigo": 303024,
+    "Examen": "TSH Tiroestimulante",
+    "Valor": 9000
+  },
+  {
+    "Codigo": 302057,
+    "Examen": "Urea/BUN",
+    "Valor": 3000
+  },
+  {
+    "Codigo": 306011,
+    "Examen": "Urocultivo",
+    "Valor": 7000
+  },
+  {
+    "Codigo": "0306069-14",
+    "Examen": "Varicela ZOSTER, anticuerpos IgG",
+    "Valor": 30000
+  },
+  {
+    "Codigo": "0306069-23",
+    "Examen": "Varicela ZOSTER, anticuerpos IgM",
+    "Valor": 30000
+  },
+  {
+    "Codigo": "0306069-10",
+    "Examen": "Varicela Zoster, Anticuerpos virales",
+    "Valor": 12000
+  },
+  {
+    "Codigo": 306042,
+    "Examen": "VDRL",
+    "Valor": 6000
+  },
+  {
+    "Codigo": 301086,
+    "Examen": "Velocidad de eritrosedimentacion (V.H.S.)",
+    "Valor": 2000
+  },
+  {
+    "Codigo": "0306069-22",
+    "Examen": "Virus Hanta, Anticuerpo IgM",
+    "Valor": 35000
+  },
+  {
+    "Codigo": "0306069-21",
+    "Examen": "Virus herpes simple tipo 1, deteccion por PCR-RT",
+    "Valor": 10000
+  },
+  {
+    "Codigo": "0306069-04",
+    "Examen": "Virus herpes simple tipo 2, deteccion por PCR-RT",
+    "Valor": 10000
+  },
+  {
+    "Codigo": 47,
+    "Examen": "Virus papiloma humano por PCR-RT",
+    "Valor": 60000
+  },
+  {
+    "Codigo": "0306070-04",
+    "Examen": "Virus Parainfluenza 3",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306069-13",
+    "Examen": "Virus Respiratorio Sincicial VRS",
+    "Valor": 12000
+  },
+  {
+    "Codigo": "0306070-08",
+    "Examen": "Virus VPH (30 Subtipos)",
+    "Valor": 60000
+  },
+  {
+    "Codigo": 301087,
+    "Examen": "Vitamina B12",
+    "Valor": 15000
+  },
+  {
+    "Codigo": "0301087-01",
+    "Examen": "Vitamina C",
+    "Valor": 45000
+  },
+  {
+    "Codigo": "0302056-03",
+    "Examen": "Zinc en sangre",
+    "Valor": 15000
+  }
+]
